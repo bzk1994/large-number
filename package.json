@@ -1,6 +1,6 @@
 {
-  "name": "large-number",
-  "version": "1.0.0",
+  "name": "large-number-bzk",
+  "version": "1.0.1",
   "description": "大整数加法",
   "main": "index.js",
   "scripts": {
